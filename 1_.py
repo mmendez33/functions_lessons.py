@@ -86,3 +86,8 @@ def createName( first, last):
 
 full_name = createName("spongebob" , "squarepants")
 print(full_name)
+
+## to push into git hub for forking:
+#git add . 
+#git commit -m "idbiwbe"
+#git push origin
